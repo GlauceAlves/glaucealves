@@ -1,6 +1,6 @@
 # Olá! Eu sou a Glauce Alves 👋
 
-Sou desenvolvedor com experiência em Mapper BASIC da Unisys, Delphi, HTML, CSS, JAVASCRIPT, SQL, MySQL, e atualmente estudando REACT. :four_leaf_clover:
+Sou desenvolvedora com experiência em Mapper BASIC da Unisys, Delphi, HTML, CSS, JAVASCRIPT, SQL, MySQL, e atualmente estudando REACT. :four_leaf_clover:
 
 ## 🛠 Tecnologias & Ferramentas
 
