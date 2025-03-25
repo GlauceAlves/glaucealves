@@ -12,12 +12,6 @@ Sou desenvolvedora com experiência em Mapper BASIC da Unisys, Delphi, HTML, CSS
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
-<a href="https://www.java.com"
-target="_blank" rel="noreferrer"> <img src="https://
-raw.githubusercontent.com/devicons/
-devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
- 
-
 ## 🤖 Inteligência Artificial
 
 > Também estou explorando o uso de tecnologias de inteligência artificial, como o **ChatGPT** da OpenAI, e **Google Gemini** da Google para aprimorar minhas habilidades de programação e automatizar processos.
