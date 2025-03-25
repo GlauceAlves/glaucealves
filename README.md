@@ -1,6 +1,6 @@
 # Olá! Eu sou a Glauce Alves 👋
 
-Sou desenvolvedora com experiência em Mapper BASIC da Unisys, Delphi, HTML, CSS, JAVASCRIPT, SQL, MySQL, e atualmente estudando REACT. :four_leaf_clover:
+Sou desenvolvedora com experiência em Mapper BASIC da Unisys, Delphi, HTML, CSS, JAVASCRIPT, SQL, MySQL, Java Spring Boot e atualmente estudando REACT. :four_leaf_clover:
 
 ## 🛠 Tecnologias & Ferramentas
 
@@ -10,6 +10,7 @@ Sou desenvolvedora com experiência em Mapper BASIC da Unisys, Delphi, HTML, CSS
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/-Java-F7DF1E?style=flat-square&logo=java&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
  
 
