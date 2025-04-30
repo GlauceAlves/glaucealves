@@ -1,6 +1,6 @@
 # Olá! Eu sou a Glauce Alves 👋
 
-Sou desenvolvedora com experiência em Mapper BASIC da Unisys, Delphi, HTML, CSS, JAVASCRIPT, SQL, MySQL, Java Spring Boot , eactJs e atualmente estudando Angular. :four_leaf_clover:
+Sou desenvolvedora com experiência em Mapper BASIC da Unisys, Delphi, HTML, CSS, JAVASCRIPT, SQL, MySQL, Java Spring Boot , ReactJs e atualmente estudando Angular. :four_leaf_clover:
 
 ## 🛠 Tecnologias & Ferramentas
 
